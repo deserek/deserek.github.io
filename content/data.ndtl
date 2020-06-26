@@ -1,12 +1,38 @@
 var DATABASE = `
-AGAINST BEAUTY IN PHYSICSS
-  PERS : faun
-  SRCE : Merveilles
-  LINK : http://rationallyspeakingpodcast.org/show/rs-211-sabine-hossenfelder-on-the-case-against-beauty-in-phy.html
-  TYPE : podcast
-  DATE : 12018-07-03
-  TAGS : philosophy, science
-  QOTE : 'It hit me pretty hard. Some of this stuff is really philosophically potent in a way that's easy to overlook.' - faun
+POEMS IN TRANSLATION
+  LINK : http://poemsintranslation.blogspot.com/
+  TYPE : article
+  DATE : 26-06-2020
+  TAGS : poetry
+  DONE : false
+
+THE RIVERS RAN EAST
+  LINK : https://www.amazon.com/Rivers-Ran-East-Travelers-Classics/dp/188521166X
+  TYPE : book
+  DATE : 26-06-2020
+  TAGS : fiction, prose
+  DONE : false
+
+MEAT
+  LINK : https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html
+  TYPE : article
+  DATE : 26-06-2020
+  TAGS : fiction
   DONE : true
-  REVI : true
+  QOTE : 'Meat. They're made out of meat.'
+
+A. J. RAFFLES
+  LINK : https://maturiin.tumblr.com/post/125629006654/
+  TYPE : book
+  DATE : 1-11-2015
+  TAGS : fiction
+  DONE : false
+  QOTE : 'There's some money here, my rabbit!'
+
+19TH CENTURY CHILDBIRTH
+  LINK : http://sahistoryhub.com.au/subjects/19th-century-childbirth
+  TYPE : article
+  DATE : 26-06-2020
+  TAGS : history
+  DONE : true
   `
